@@ -1,15 +1,9 @@
 # Teacher Management GUI System
 
 ## Project Overview
-This project is a Java-based Desktop Application developed as part of the **CS4001NI Programming** module. It provides a Graphical User Interface (GUI) to manage academic staff records, specifically handling `Lecturer` and `Tutor` data within an integrated system.
+This project is a Java-based Desktop Application it provides a Graphical User Interface (GUI) to manage academic staff records, specifically handling `Lecturer` and `Tutor` data within an integrated system.
 
 The application allows for adding staff members, managing salary appraisals for tutors, and handling assignment grading for lecturers, all while maintaining data integrity through Object-Oriented Programming (OOP) principles.
-
-## Student Information
-* **Name:** Evani Raut
-* **London Met ID:** 23047473
-* **College ID:** NP01NT4A230151
-* **Group:** N6
 
 ## Features
 * **Staff Registry:** Add and store Lecturer and Tutor details in a centralized `ArrayList`.
